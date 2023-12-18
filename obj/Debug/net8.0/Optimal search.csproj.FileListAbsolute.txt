@@ -1,0 +1,34 @@
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\bin\Debug\net8.0\Optimal search.exe
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\bin\Debug\net8.0\Optimal search.deps.json
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\bin\Debug\net8.0\Optimal search.runtimeconfig.json
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\bin\Debug\net8.0\Optimal search.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\bin\Debug\net8.0\Optimal search.pdb
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\bin\Debug\net8.0\MathParser.org-mXparser.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.csproj.AssemblyReference.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.AssemblyInfoInputs.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.AssemblyInfo.cs
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.csproj.CopyComplete
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\refint\Optimal search.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.pdb
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\Optimal search.genruntimeconfig.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional optimal search\obj\Debug\net8.0\ref\Optimal search.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\bin\Debug\net8.0\Optimal search.exe
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\bin\Debug\net8.0\Optimal search.deps.json
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\bin\Debug\net8.0\Optimal search.runtimeconfig.json
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\bin\Debug\net8.0\Optimal search.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\bin\Debug\net8.0\Optimal search.pdb
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\bin\Debug\net8.0\MathParser.org-mXparser.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.csproj.AssemblyReference.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.AssemblyInfoInputs.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.AssemblyInfo.cs
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.csproj.CopyComplete
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\refint\Optimal search.dll
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.pdb
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\Optimal search.genruntimeconfig.cache
+D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\obj\Debug\net8.0\ref\Optimal search.dll
