@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Optimal_search
-build_property.ProjectDir = D:\Рабочий стол\Школка\4 Курс\ММДО\ПР5\One-dimensional_optimal_search\
+build_property.ProjectDir = C:\Users\rosti\Documents\GitHub\One-dimensional_optimal_search\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

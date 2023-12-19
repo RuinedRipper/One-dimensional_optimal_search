@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Рабочий стол\\Школка\\4 Курс\\ММДО\\ПР5\\One-dimensional_optimal_search\\Optimal search.csproj": {}
+    "C:\\Users\\rosti\\Documents\\GitHub\\One-dimensional_optimal_search\\Optimal search.csproj": {}
   },
   "projects": {
-    "D:\\Рабочий стол\\Школка\\4 Курс\\ММДО\\ПР5\\One-dimensional_optimal_search\\Optimal search.csproj": {
+    "C:\\Users\\rosti\\Documents\\GitHub\\One-dimensional_optimal_search\\Optimal search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Рабочий стол\\Школка\\4 Курс\\ММДО\\ПР5\\One-dimensional_optimal_search\\Optimal search.csproj",
+        "projectUniqueName": "C:\\Users\\rosti\\Documents\\GitHub\\One-dimensional_optimal_search\\Optimal search.csproj",
         "projectName": "Optimal search",
-        "projectPath": "D:\\Рабочий стол\\Школка\\4 Курс\\ММДО\\ПР5\\One-dimensional_optimal_search\\Optimal search.csproj",
+        "projectPath": "C:\\Users\\rosti\\Documents\\GitHub\\One-dimensional_optimal_search\\Optimal search.csproj",
         "packagesPath": "C:\\Users\\rosti\\.nuget\\packages\\",
-        "outputPath": "D:\\Рабочий стол\\Школка\\4 Курс\\ММДО\\ПР5\\One-dimensional_optimal_search\\obj\\",
+        "outputPath": "C:\\Users\\rosti\\Documents\\GitHub\\One-dimensional_optimal_search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

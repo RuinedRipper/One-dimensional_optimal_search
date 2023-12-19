@@ -1,4 +1,4 @@
-﻿namespace PR5
+﻿namespace Optimal_search
 {
     internal class Program
     {
@@ -24,8 +24,9 @@
                     Console.WriteLine("Invalid input");
                     continue;
                 }
-
-                HalfMethod.CalculateMethod(expression, interval1, interval2);
+                //
+                GoldenRationMethod.CalculateMethod(expression, interval1, interval2);
+                //HalfMethod.CalculateMethod(expression, interval1, interval2);
                 Console.WriteLine();
             }
         }
