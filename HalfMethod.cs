@@ -36,7 +36,7 @@ namespace Optimal_search
         {
             F = new Function($"F(x) = {enteredExpression}");
 
-            var leftAndRightCorner = GetLeftAndRightCorner(interval1, interval2);
+            var leftAndRightCorner = GetAndShowExtremums(interval1, interval2);
 
             Console.WriteLine("n\ta\tb\tL\txAvg\tx1\tx2\tfAvg\tf1\tf2");
             CalculateIteration(leftAndRightCorner.a, leftAndRightCorner.b);

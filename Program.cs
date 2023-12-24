@@ -24,7 +24,7 @@
                     Console.WriteLine("Invalid input");
                     continue;
                 }
-                //
+                
                 GoldenRationMethod.CalculateMethod(expression, interval1, interval2);
                 //HalfMethod.CalculateMethod(expression, interval1, interval2);
                 Console.WriteLine();

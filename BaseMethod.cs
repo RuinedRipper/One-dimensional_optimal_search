@@ -8,6 +8,7 @@ namespace Optimal_search
         {
             License.iConfirmNonCommercialUse("rosti");
         }
+
         private protected static readonly double e = 0.001;
         private protected static int currentIteration = 0;
 
@@ -38,19 +39,37 @@ namespace Optimal_search
             return intervalValuesArray;
         }
 
-        private protected static (double a, double b) GetLeftAndRightCorner(double interval1, double interval2)
+        private protected static (double a, double b) GetAndShowExtremums(double interval1, double interval2)
         {
             var intervalValuesArray = GetIntervalValuesArray(interval1, interval2);
             double a = 0, b = 0;
+
+            Console.WriteLine("Extremums");
+            Console.ForegroundColor = ConsoleColor.Red;
+
             for (int i = 0; i <= intervalValuesArray.Count; i++)
             {
                 try
                 {
-                    if ((intervalValuesArray[i][1] < intervalValuesArray[i - 1][1] && intervalValuesArray[i][1] < intervalValuesArray[i + 1][1]) || (intervalValuesArray[i][1] > intervalValuesArray[i - 1][1] && intervalValuesArray[i][1] > intervalValuesArray[i + 1][1]))
+                    if (intervalValuesArray[i][1] < intervalValuesArray[i - 1][1] && intervalValuesArray[i][1] < intervalValuesArray[i + 1][1])
                     {
-                        a = intervalValuesArray[i - 1][0];
-                        b = intervalValuesArray[i + 1][0];
-                        break;
+                        if (a == 0 && b == 0)
+                        {
+                            a = intervalValuesArray[i - 1][0];
+                            b = intervalValuesArray[i + 1][0];
+                        }
+                        Console.WriteLine($"({intervalValuesArray[i - 1][0]} ; {intervalValuesArray[i + 1][0]}) - minimum\n");
+                        Console.ResetColor();
+                    }
+                    else if (intervalValuesArray[i][1] > intervalValuesArray[i - 1][1] && intervalValuesArray[i][1] > intervalValuesArray[i + 1][1])
+                    {
+                        if (a == 0 && b == 0)
+                        {
+                            a = intervalValuesArray[i - 1][0];
+                            b = intervalValuesArray[i + 1][0];
+                        }
+                        Console.WriteLine($"({intervalValuesArray[i - 1][0]} ; {intervalValuesArray[i + 1][0]}) - maximum\n");
+                        Console.ResetColor();
                     }
                 }
                 catch { }
