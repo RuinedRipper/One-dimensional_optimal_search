@@ -25,8 +25,9 @@
                     continue;
                 }
                 
-                GoldenRationMethod.CalculateMethod(expression, interval1, interval2);
+                //GoldenRationMethod.CalculateMethod(expression, interval1, interval2);
                 //HalfMethod.CalculateMethod(expression, interval1, interval2);
+                FibonacciMethod.CalculateMethod(expression, interval1, interval2);
                 Console.WriteLine();
             }
         }
